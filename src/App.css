@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.productTable{
+  display: inline-table;
+  align-items: center;
+}
+
+.productList{
+  display:flex; flex-direction:row;
+}
